@@ -1,3 +1,3 @@
-. /opt/UnicornSoftware/BSS/env/bin/activate
+. ./env/bin/activate
 python main.py
 
